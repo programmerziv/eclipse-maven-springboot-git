@@ -11,6 +11,7 @@ public class MyController {
 		System.out.println("hello world!");
 		System.out.println("你好啊");
 		System.out.println("你倒是说句话啊");
+		System.out.println("再多几句话怎么样啊~~~");
 		return "hello";
 	}
 }
